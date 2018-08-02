@@ -1,0 +1,17 @@
+c:\users\admin\documents\visual studio 2013\Projects\MVC\MVC\bin\MVC.dll.config
+c:\users\admin\documents\visual studio 2013\Projects\MVC\MVC\bin\MVC.dll
+c:\users\admin\documents\visual studio 2013\Projects\MVC\MVC\bin\MVC.pdb
+c:\users\admin\documents\visual studio 2013\Projects\MVC\MVC\bin\System.Web.Helpers.dll
+c:\users\admin\documents\visual studio 2013\Projects\MVC\MVC\bin\System.Web.Mvc.dll
+c:\users\admin\documents\visual studio 2013\Projects\MVC\MVC\bin\System.Web.Razor.dll
+c:\users\admin\documents\visual studio 2013\Projects\MVC\MVC\bin\System.Web.Webpages.Deployment.dll
+c:\users\admin\documents\visual studio 2013\Projects\MVC\MVC\bin\System.Web.Webpages.dll
+c:\users\admin\documents\visual studio 2013\Projects\MVC\MVC\bin\System.Web.Webpages.Razor.dll
+c:\users\admin\documents\visual studio 2013\Projects\MVC\MVC\bin\System.Web.Razor.xml
+c:\users\admin\documents\visual studio 2013\Projects\MVC\MVC\bin\System.Web.Webpages.xml
+c:\users\admin\documents\visual studio 2013\Projects\MVC\MVC\bin\System.Web.Webpages.Deployment.xml
+c:\users\admin\documents\visual studio 2013\Projects\MVC\MVC\bin\System.Web.Webpages.Razor.xml
+c:\users\admin\documents\visual studio 2013\Projects\MVC\MVC\bin\System.Web.Helpers.xml
+c:\users\admin\documents\visual studio 2013\Projects\MVC\MVC\bin\System.Web.Mvc.xml
+c:\users\admin\documents\visual studio 2013\Projects\MVC\MVC\obj\Debug\MVC.dll
+c:\users\admin\documents\visual studio 2013\Projects\MVC\MVC\obj\Debug\MVC.pdb
